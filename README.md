@@ -9,3 +9,5 @@ MaS-PET only works togeter with the PET package and the pmf2 algorithm. Check th
 [MaS-PET user manual](https://docs.google.com/document/d/1Pp3fKmbjSWsZof1nTggsZeYA08lPByCMNrzk0OhDxBw/edit?usp=sharing)
 
 MaS-PET has been tested for Igor 7-9. It will probably not run in Igor 6.
+
+To download everything, click the green "code" button and select "Download Zip".
