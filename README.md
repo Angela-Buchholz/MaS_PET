@@ -11,3 +11,7 @@ MaS-PET only works togeter with the PET package and the pmf2 algorithm. Check th
 MaS-PET has been tested for Igor 7-9. It will probably not run in Igor 6.
 
 To download everything, click the green "code" button and select "Download Zip".
+
+The PET files and the PMF executable can be obtained from this wiki page (section "PMF Evaluation Tool Software"):
+[PMF-AMS_Wiki](https://cires1.colorado.edu/jimenez-group/wiki/index.php/PMF-AMS_Analysis_Guide)
+The license for the PMF2 algorithm is now handled by the Swiss company Datalystica. Check the information about the license in the section "Purchase a group PMF license"
